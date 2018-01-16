@@ -40,5 +40,5 @@
 </head>
 <body style="margin: 0;">
     <div id="root"></div>
-<script type="text/javascript" src="static/manager.66ec37387ac2a8790caf.bundle.js"></script></body>
+<script type="text/javascript" src="static/manager.5f5f6dd719341ee033c8.bundle.js"></script></body>
 </html>
